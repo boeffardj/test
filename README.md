@@ -6,14 +6,27 @@ Pour démarrer un nouveau paragraphe , il faut faire 2 "retour chariot" (2 fois 
 
 Ici commence donc le *nouveau paragraphe*. 
 ## Travail à distance
-Compte tenu des conditions climatiques, nous allons travailler à la maison en réalisant deux exercices.
+Compte tenu des conditions climatiques, nous allons travailler à la maison en réalisant un TD en qui abordera 3 points dans la prolongation de ce qui a été vu en cours.
 ### La rédaction au format Markdown
-<img align="right" width=150 src="images/markdown.png">l'insertion d'une image. Cette image vous est fournie (kercode.jpg). Bla bla... et donc comment se poursuit la mise en page ? Je ne suis pas sûr que tout cela se passe bien...
-Et encore moins bien si j'ajoute une suite avec un saut à la ligne.
+<img align="right" width=150 src="images/markdown.png">
 
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce texte avec :
 - la gestion de la différence entre le retour à la ligne et le démarrage d'un nouveau paragraphe (avec saut d'une ligne vide),
 - le respect des mots en *italique*, **en gras** et en ***italique gras***,
 - le respect de la structuration du document (niveau hiérarchie),
-- {: style="float: left;"} l'insertion d'une image. Cette image vous est fournie (markdown.png). Bla bla... et donc comment se poursuit la mise en page ? Je ne suis pas sûr que tout cela se passe bien...
-- 
+- l'insertion d'images,
+- l'insertion de d'hyperliens HTML,
+- l'insertion de code HTML (*à vous de trouver où ; c'est du bonus*)
+
+### La création d'un dépôt [GitHub](https://github.com/)
+Il s'agira d'une création minimale dans laquelle vous pourrez mettre, comme contenu du fichier Readme.md, le code (au format md)de ce document. Vous allez aussi "uploader" les 2 images nécessaires.  
+Non seulement, vous aurez créé un dépôt distant (**YES !**), mais vous aurez aussi une possibilité de visualisation de votre code "markdown" conformément à l'environnement GitHub.
+
+Tout sera expliqué... Pas de panique !
+
+### La navigation et manipulation sous linux
+1. Création de dossier(s)
+2. Utilisation des chemins
+3. Copie / déplacement / suppression de fichiers
+
+Là aussi, vous serez guidé... Pas de panique !
