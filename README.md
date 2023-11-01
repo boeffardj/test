@@ -7,8 +7,8 @@ Ici commence donc le *nouveau paragraphe*.
 ## Travail à distance
 Compte tenu des conditions climatiques, nous allons travailler à la maison en réalisant deux exercices.
 ### La rédaction au format Markdown
-<img style="float: left;" src="images/markdown.png">l'insertion d'une image. Cette image vous est fournie (kercode.jpg). Bla bla... et donc comment se poursuit la mise en page ? Je ne suis pas sûr que tout cela se passe bien...
-Et encore moins bien si j'ajoute une suite avec un saut à la ligne.
+<div style="float: left;"><img src="images/markdown.png">l'insertion d'une image. Cette image vous est fournie (kercode.jpg). Bla bla... et donc comment se poursuit la mise en page ? Je ne suis pas sûr que tout cela se passe bien...
+Et encore moins bien si j'ajoute une suite avec un saut à la ligne.</div>
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce texte avec :
 - la gestion de la différence entre le retour à la ligne et le démarrage d'un nouveau paragraphe (avec saut d'une ligne vide),
 - le respect des mots en *italique*, **en gras** et en ***italique gras***,
