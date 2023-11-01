@@ -1,1 +1,15 @@
-# TD_Markdown
+# Bienvenue chez Kercode !
+## Introduction
+Ceci est un petit texte d'introduction. Je la ligne suivante (*sans sauter une ligne*) en terminant celle-ci par 2 espaces avant de frapper la touche "entrer".  
+Pour démarrer un nouveau paragraphe , il faut faire 2 "retour chariot" (2 fois "entrer")
+
+Ici commence donc le *nouveau paragraphe*. 
+## Travail à distance
+Compte tenu des conditions climatiques, nous allons travailler à la maison en réalisant deux exercices.
+### La rédaction au format Markdown
+Cet exercice a pour objectif de reproduire le plus fidèlement possible ce texte avec :
+- la gestion de la différence entre le retour à la ligne et le démarrage d'un nouveau paragraphe (avec saut d'une ligne vide),
+- le respect des mots en *italique*, **en gras** et en ***italique gras***,
+- le respect de la structuration du document (niveau hiérarchie),
+- ![Texte alternatif](./images/markdown.png "Logo Markdown") l'insertion d'une image. Cette image vous est fournie (markdown.png).
+- <img style="align:left" src="images/markdown.png" /> l'insertion d'une image. Cette image vous est fournie (kercode.jpg).
