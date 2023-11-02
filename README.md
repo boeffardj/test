@@ -25,6 +25,7 @@ Non seulement, vous aurez créé un dépôt distant (**YES !**), mais vous aurez
 Tout sera expliqué... Pas de panique !
 
 ### La navigation et manipulation sous linux
+<img style="float:right;" width=180 src="images/markdown.png">
 1. Création de dossier(s)
 2. Utilisation des chemins
 3. Copie / déplacement / suppression de fichiers
