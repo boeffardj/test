@@ -1,4 +1,4 @@
-# Bienvenue chez Kercode !
+# Bienvenue chez Kercode 666!
 ![This is an alternative](./images/kercode.jpg "Kercode")
 ## Introduction
 Ceci est un petit texte d'introduction. Je la ligne suivante (*sans sauter une ligne*) en terminant celle-ci par 2 espaces avant de frapper la touche "entrer".  
