@@ -29,5 +29,5 @@ Tout sera expliqué... Pas de panique !
 1. Création de dossier(s)
 2. Utilisation des chemins
 3. Copie / déplacement / suppression de fichiers
-
+<!-- modif -->
 Là aussi, vous serez guidé... Pas de panique !
